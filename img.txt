@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+	* {
+     	 font-family: calibri;
+  	  }
+
+
+.headingmain {
+  background-color: lightblue;
+  color: black;
+  padding: 10px;
+} 
+
+
+.headingsub {
+  background-color: MediumSeaGreen;
+  color: white;
+  padding: 7px;
+} 
+</style>
+</head>
+<body>
+
+<h1 style="font-family:calibri" class="headingmain">Personal Information</h1>
+<div class="body">
+<p>This is a paragraph.</p>
+<p>how arwe yiosd</p>
+</div>
+
+<h2 class="headingsub">Paris</h2>
+<p>Paris is the capital of France.</p>
+  
+<div class="body">
+<p>London is the capital of England.</p>
+</div>
+
+<div style="background-color:black;color:white;padding:20px;">
+</div>
+
+
+<img src="G:\Uni Aug 2020\IIT\TaskOne\NewGitCloneFolder\IntroITadriaanMoorcroft\BigFivePersonalityTest.PNG" style="width:800px;height:428px;">
+
+</style>
+</body>
+</html>
+
+
